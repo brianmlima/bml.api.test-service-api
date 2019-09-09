@@ -1,0 +1,11 @@
+
+# Generated with apibuilderproject.rb at 09/09/2019 08:53:17
+settings:
+  code.create.directories: true
+code:
+  bml:
+    test-service-api:
+      version: "0.0.1-dev"
+      generators:
+        openapi:
+          target: "src/test-service-api"
